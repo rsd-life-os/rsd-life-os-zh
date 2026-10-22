@@ -98,11 +98,11 @@ description: "以《RSD人生优化系统》（RSD Life OS，谷阳／RSD Kin �
 | 5 | `chapters/ch05-three-souls.md` | 人类终极资产：三魂云盘——天魂、地魂、人魂 |
 | 6 | `chapters/ch06-awakening-method.md` | 《RSD唤醒法》操作程序 |
 | 7 | `chapters/ch07-rebuilding-method.md` | 《RSD重组法》：困境即资产重组 |
-| 8 | `chapters/ch08-charging-observation.md` | 日常维护：充电法与观测法 |
-| 9 | `chapters/ch09-energy-navigator.md` | 福德账户：总资产、导航仪、两大禁忌、每日增值 |
-| 10 | `chapters/ch10-four-journeys.md` | 行为导航仪：四大旅程作为航线 |
-| 11 | `chapters/ch11-relationships.md` | 情绪、冲突、沟通，与构建你的"同频体" |
-| 12 | `chapters/ch12-wealth.md` | 财富是利他价值的能量回执；信任资产；三大核心程序 |
+| 8 | `chapters/ch08-charging-observation.md` | 日常维护：充电法与观测法（配套讲稿 `video-notes/03-rsd-quit-smoking.md`） |
+| 9 | `chapters/ch09-energy-navigator.md` | 福德账户：总资产、导航仪、两大禁忌、每日增值（配套讲稿 `video-notes/04-merit-cannot-be-begged.md`） |
+| 10 | `chapters/ch10-four-journeys.md` | 行为导航仪：四大旅程作为航线（配套讲稿 `video-notes/05-home-as-ferry-boat.md`） |
+| 11 | `chapters/ch11-relationships.md` | 情绪、冲突、沟通，与构建你的"同频体"（配套讲稿 `video-notes/05-home-as-ferry-boat.md`） |
+| 12 | `chapters/ch12-wealth.md` | 财富是利他价值的能量回执；信任资产；三大核心程序（配套讲稿 `video-notes/06-earn-money-in-reverse.md`） |
 | 13 | `chapters/ch13-environment.md` | 环境即能量交互；管理自己的场 |
 | 14 | `chapters/ch14-highest-altruism.md` | 无我利他的最高境界：舍生取义、传承、终极重组 |
 | 15 | `chapters/ch15-new-civilization.md` | 从个体到天下大同：文明源代码与三段式路线图 |
@@ -115,6 +115,7 @@ description: "以《RSD人生优化系统》（RSD Life OS，谷阳／RSD Kin �
 - `glossary.md` —— 全部专用名词，各一行定义
 - `patterns.md` —— 书中点名的反复出现的结构与反模式
 - `cheatsheet.md` —— 一页速查：决策表、工具卡、硬边界
+- `video-notes/` —— 四篇视频讲稿的口语版（戒烟／福报／家／财富），索引见 `video-notes/00-index.md`。
 
 ## 本技能触发时的应答规程
 
