@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [37..109) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [37..107) -->
 
 # 前置：时代的召唤与作者声明
 
