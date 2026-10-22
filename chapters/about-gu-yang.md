@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2241..2253) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2229..2239) -->
 
 # 关于谷阳
 
@@ -12,4 +12,4 @@
 
 元末乱世，英祖从山东迁居此地，孟子血脉与思想得以传承。
 
-作者早年背井离乡。而今，年岁愈长，思乡之情愈甚……
+作者，早年离乡。而今，年岁愈长，思乡之情愈甚……
