@@ -1,6 +1,6 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1694..1832) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1674..1812) -->
 
-# 第十二章 — 事业与财富：创造价值，主宰财富
+# 第十二章 — 事业与财富——创造价值，主宰财富
 
 ### 第十二章：事业与财富——创造价值，主宰财富
 
