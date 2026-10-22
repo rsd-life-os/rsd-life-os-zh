@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1909..1957) | Part: 第五编：文明篇章——使命与担当 -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1883..1928) | Part: 第五编：文明篇章——使命与担当 -->
 
 # 第十四章 — 无我利他的最高境界
 
