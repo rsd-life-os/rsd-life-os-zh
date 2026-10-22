@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1611..1694) | Part: 第四编：日常应用——彰显你的自信成果 -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [1591..1674) | Part: 第四编：日常应用——彰显你的自信成果 -->
 
 # 第十一章 — 关系处理：运用洞察创造深度和谐
 
