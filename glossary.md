@@ -10,7 +10,7 @@
 | **《RSD唤醒法》**（RSD Awakening Tool） | 你的"主权复位器"。一次刻意的主宰身份确认，把你从念头与情绪的客体复位为它们的主宰。 |
 | **《RSD重组法》**（RSD Rebuilding Tool） | 你的"命运优化器"。以 R→S→D 行为码把困境转化为资本。 |
 | **《RSD充电法》**（RSD Charging Tool） | 你的"身心充电器"。呼吸与专注的例行程序，清理情绪负荷、恢复能量。 |
-| **《RSD观测法》**（RSD Observation Tool） | 你的"身体管理器"。在觉察与能量层面处理身体不适与习惯——绝不预测，绝不替代医疗。 |
+| **《RSD观测法》**（RSD Observation Tool） | 你的"健康管理器"。在觉察与能量层面处理身体不适与习惯——绝不预测，绝不替代医疗。 |
 | **《RSD导航仪》**（RSD Navigation Tool） | 你的"行为校准器"。给每个念头、言语、行为标 +1（利他）或 −1（自私）。无中性项。 |
 
 ## 核心模型
@@ -73,7 +73,7 @@
 | **Awakening Toolkit（觉醒工具包）** | 各章章首；六大工具的合称。 |
 | **Universal Key（万能钥匙）** | 《RSD分析法》的别名（第 2 章）。 |
 | **Core Warning: Do Not Predict the Future** | 8.4 节标题；全系统的硬边界。 |
-| **Material Misappropriation / Spiritual Deception** | 9.3 节；两大禁忌（物质侵占／精神欺诈）。 |
+| **Material Encroachment / Spiritual Deception** | 9.3 节；两大禁忌（物质侵占／精神欺诈）。 |
 | **Positive Track (+1) / Deviation Warning (−1)** | 导航仪的两种标记。 |
 | **ferry boat / ferry you across（渡）** | 10.2 节；家是摆渡船意象。 |
 | **Donating the Self（捐我）** | 14.3 节；《RSD重组法》的终极应用。 |
