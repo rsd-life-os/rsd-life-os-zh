@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2168..2241) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2157..2229) -->
 
 # 终章 — 成为光源
 
@@ -36,7 +36,7 @@
 
 用途：将人生重大困境和“负资产”显化转化为觉醒资粮和“正资产”。
 
-操作核心：遵循三步流程：“R担当→S洞察→D顺势。
+操作核心：遵循三步流程：R担当→S洞察→D顺势。
 
 《RSD充电法》——你的身心充电器
 
