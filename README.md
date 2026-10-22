@@ -1,4 +1,6 @@
-# RSD人生优化系统（RSD Life OS）
+# RSD 系统 · 《RSD人生优化系统》
+
+**RSD Skill —— 把这套人生系统，装进你的 AI。**
 
 **如果其中有一句问的就是你——这本书，就是为你写的：**
 
@@ -49,7 +51,7 @@
 
 ## 安装
 
-Agent Skill 是根目录带 `SKILL.md` 的目录。克隆到你所用智能体的 skills 目录：
+RSD Skill 是一个 Agent Skill——一个根目录带 `SKILL.md` 的文件夹。克隆到你所用智能体的 skills 目录：
 
 ```bash
 git clone https://github.com/rsd-life-os/rsd-life-os-zh.git
