@@ -1,6 +1,6 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [911..993) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [906..988) -->
 
-# 第七章 — RSD重组法：命运优化与困境转化器
+# 第七章 — 《RSD重组法》——命运优化与困境转化器
 
 ### 第七章：《RSD重组法》——命运优化与困境转化器
 
