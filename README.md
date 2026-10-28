@@ -85,3 +85,7 @@ git clone https://github.com/rsd-life-os/rsd-life-os-zh.git
 ## 出处
 
 《RSD人生优化系统》（*RSD Life OS*），**谷阳（RSD Kin）** 著。著作权归作者所有。英文版由 Movement Publishing 出版（2026 年 1 月）；本技能内容为作者改定文本（2026 年 10 月版）。
+
+## 如果想读原书
+
+《RSD Life OS》（英文版）与《RSD 人生优化系统》（中文版）已全球发行，搜索书名即可。
