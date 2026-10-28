@@ -1,4 +1,4 @@
-<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2239..2252) -->
+<!-- Source: E:/Buddy/My Files/rsd-life-os/RSD人生优化系统.docx | paragraphs [2237..2250) -->
 
 # 福德优化提示
 
@@ -16,8 +16,10 @@
 
 如果你尚未读懂本书，存有疑问，请先多看几遍。你也可以寻找“同频体”的RSD人咨询，他们都会帮你解惑答疑。
 
-1、如需帮助，可尝试联系：RSDKin@outlook.com
-
-2、如果您使用Agent，您可以GitHub搜索rsd-life-os即可下载安装RSD Skill，帮你解惑答疑、处理问题。
+• 如需帮助，可尝试联系：RSDKin@outlook.com
 
 （不保证都能回复）
+
+• 如果您使用智能体，可以在 GitHub 搜索 rsd-life-os，下载安装 RSD Skill，帮你答疑处理问题。
+
+• 中国大陆读者，可在抖音/快手/小红书/微信，搜索账号：DNF80588，观看辅导员视频讲解。
